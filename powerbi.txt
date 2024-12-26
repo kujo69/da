@@ -1,0 +1,41 @@
+Clustered bar chart 1:
+Category and sales in y and x axis
+x and y axis colors>white
+general>effects>background>rounded corners
+
+Clustered bar chart 2:
+sub category and sales in y and x
+filters>sub cat>filter type>top n>3
+
+Clustered bar chart 3:
+Ship mode and sales in y and x
+
+Stacked area chart 1: 
+order date and sales in x and y
+order data>data heireachy>remove year n quarter 
+legend=order date
+order date>data heireachy
+visuals>data lables>off
+
+Stacked area chart 1: 
+order date and profit in x and y
+
+Map:
+file>options and settings>options>security>map and filled map visual>check true
+states>drag and drop
+bubble size>sales
+tool tip>profit
+
+Donut chart 1:
+legend>segment>drag and drop
+values>sales
+
+Donut chart 1:
+legend>payment mode
+
+Slicer:
+field>region>drag and drop
+format visual>visual>options>style>tile
+
+Heading :
+home tab> text box
