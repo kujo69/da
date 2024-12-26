@@ -1,0 +1,25 @@
+Steps in Excel:
+1. Sort the Data by Region
+Select the data range (A1:D13 in this example).
+Go to the Data tab in the Ribbon.
+Click Sort.
+In the Sort dialog box:
+Ensure My data has headers is checked.
+Choose Region in the Sort by dropdown.
+Choose either A to Z (ascending) or Z to A (descending) to sort by region.
+Click OK to apply the sorting.
+
+2. Use the Subtotal Function in Excel
+Select the data range again (A1:D13).
+Go to the Data tab.
+Click the Subtotal button in the Outline group (usually found on the far right of the tab).
+3. Set Up Subtotals:
+In the Subtotal dialog box, configure the following:
+
+At each change in: Select Region (because you want to group by region).
+Use function: Select Sum (to calculate totals for each group).
+Add subtotal to: Select the Sales and Quantity columns (this will calculate totals for these columns).
+Click OK.
+
+Excel will automatically insert subtotals for Sales and Quantity for each region.
+A Grand Total will be placed at the bottom of the list.
